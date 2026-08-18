@@ -1,0 +1,6 @@
+{
+  "name": "Fertility Back",
+  "description": "Official single-screen hero landing page for the book Fertility Back: A Complete Guide to Preparing Your Body for Pregnancy Naturally and Safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
